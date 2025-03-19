@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # 🔑 Set your Gemini API Key
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
+GEMINI_API_KEY = "AIzaSyDFMsAyMZI1NAg_ALQptaFuqOeCeSdPT70"
 
 def call_gemini_api(question):
     """
